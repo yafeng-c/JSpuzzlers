@@ -23,3 +23,6 @@ A switch statement first evaluates its expression. It then looks for the first c
 console.log(typeof new String('A'));
 
 console.log(typeof 'A');
+
+
+typeof String('A') === "string"
